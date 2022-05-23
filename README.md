@@ -1,2 +1,2 @@
 # instagram_scrapper
-Scrap instagram user with minimal follower
+Scrap instagram user with minimal follower.
